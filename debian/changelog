@@ -1,3 +1,9 @@
+mosh (1.3.0~rc3-1.1) unstable; urgency=medium
+
+  * ILC
+
+ -- Denis Bychkov <manover@gmail.com>  Sun, 05 Mar 2017 09:19:21 -0500
+
 mosh (1.3.0~rc3-1) experimental; urgency=medium
 
   * Workaround for Debian bug #817236 on buildds
